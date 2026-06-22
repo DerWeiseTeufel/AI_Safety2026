@@ -16,7 +16,7 @@
 
 ## Key results
 
-- **macro-F1 = [0.79]** 
+
 - Provides statistically rigorous evaluation pipeline that can tell you not just how accurate a model is, but whether observed differences between models are real
 - Fully **automated pipeline** to test the performence of two LLMs on benchmarks
 - Working agent evaluation pipeline and hands-on experience with the kind of iteration loop used in real-world agent evals.
